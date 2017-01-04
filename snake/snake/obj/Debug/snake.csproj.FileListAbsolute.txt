@@ -1,0 +1,6 @@
+D:\muzica\Новая папка\snake\snake\bin\Debug\snake.exe.config
+D:\muzica\Новая папка\snake\snake\bin\Debug\snake.exe
+D:\muzica\Новая папка\snake\snake\bin\Debug\snake.pdb
+D:\muzica\Новая папка\snake\snake\obj\Debug\snake.csprojResolveAssemblyReference.cache
+D:\muzica\Новая папка\snake\snake\obj\Debug\snake.exe
+D:\muzica\Новая папка\snake\snake\obj\Debug\snake.pdb
